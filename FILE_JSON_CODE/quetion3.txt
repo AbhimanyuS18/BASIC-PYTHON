@@ -1,0 +1,5 @@
+arun;bikaner
+abhi;jaipur
+dilip;delhi
+fateh ;jaipur
+pratap;bikaner
